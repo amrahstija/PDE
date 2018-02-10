@@ -1,2 +1,3 @@
-# PDE
-Numerical Solution of some quirky PDEs
+# Numerical Solution of PDE
+Solution of Poisson Equation using Finite Difference Method
+
